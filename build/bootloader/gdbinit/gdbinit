@@ -1,0 +1,2 @@
+source /Users/kennedyowusu/Codes/iot/freertos_multitask_demo/build/bootloader/gdbinit/symbols
+source /Users/kennedyowusu/Codes/iot/freertos_multitask_demo/build/bootloader/gdbinit/connect
